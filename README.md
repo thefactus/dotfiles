@@ -1,0 +1,1 @@
+Neovim • Alacritty • Zshrc • Tmux
