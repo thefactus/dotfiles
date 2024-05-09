@@ -1,0 +1,56 @@
+# import = ["/home/drew/.config/alacritty/catppuccin/catppuccin-mocha.toml"]
+live_config_reload = true
+
+[cursor]
+style = "Block"
+unfocused_hollow = true
+vi_mode_style = "Beam"
+
+[font]
+size = 18.0
+# use_thin_strokes = true
+
+[font.bold]
+family = "Hack Nerd Font Mono"
+style = "Bold"
+
+[font.bold_italic]
+family = "Hack Nerd Font Mono"
+style = "Bold Italic"
+
+[font.glyph_offset]
+x = 0
+y = 2
+
+[font.italic]
+family = "Hack Nerd Font Mono"
+style = "Italic"
+
+[font.normal]
+family = "Hack Nerd Font Mono"
+style = "Regular"
+
+[font.offset]
+x = 0
+y = 0
+
+[mouse]
+hide_when_typing = true
+
+[selection]
+save_to_clipboard = true
+semantic_escape_chars = ",│`|:\"' ()[]{}<>"
+
+[window]
+decorations = "buttonless"
+dynamic_padding = true
+# opacity = 1.0
+
+[window.padding]
+x = 10
+y = 5
+
+[colors.primary]
+# background = "#262626"
+# background = "#e4e4e4"
+background = "#222436"
